@@ -1,7 +1,8 @@
 
 import './App.css';
-import Form from './Components/Form';
-import NavBar from './Components/NavBar';
+import Form from './Components/Form/Form';
+import NavBar from './Components/NavBar/NavBar';
+
 function App() {
   return (
     <>

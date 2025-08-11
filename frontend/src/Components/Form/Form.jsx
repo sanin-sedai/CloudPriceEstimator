@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
-import AddedServices from './AddedServices'
+import AddedServices from '../AddedServices/AddedServices'
 import { v4 as uuidv4 } from 'uuid'
-
+import './Form.css'
 const Form = () => {
 
   const [selectedResource,setSelectedResource] = useState('')

@@ -1,0 +1,18 @@
+.navigation-bar {
+  background-color: #1e293b; /* slate-800 */
+  color: #ffffff;
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.navigation-bar h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0;
+}
