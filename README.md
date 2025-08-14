@@ -49,8 +49,8 @@ spring.datasource.password=your_password
 
 ```
 Build and run:
-```bash
 mvn clean install
+```bash
 ./mvnw spring-boot:run
 ```
 Backend will be available at http://localhost:8080
@@ -79,3 +79,13 @@ Frontend will be available at http://localhost:3000
 - Inputs usage units
 - Backend calculates per-unit and total costs
 - UI displays results instantly
+
+## 🎥 Demo Video
+
+[![Watch the demo]](https://drive.google.com/file/d/1l5QCzuhQ7y9EGKa9T2zxEcGNK9Ir2DwX/view?usp=sharing)
+
+
+
+
+
+
