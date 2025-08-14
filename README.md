@@ -32,21 +32,21 @@ Built with **React** (frontend) and **Spring Boot** (backend).
 
 ### **1. Clone the repository**
 ```bash
-      git clone https://github.com/sanin-sedai/CloudPriceEstimator.git
-      cd CloudPriceEstimator
+git clone https://github.com/sanin-sedai/CloudPriceEstimator.git
+cd CloudPriceEstimator
 ```
 ### **2. Backend Setup (Spring Boot)**
 
 Navigate to backend folder:
 ```bash
-     cd backend
+cd backend
  ```
 Configure application.properties
 ```bash
 spring.datasource.url=jdbc:postgresql://localhost:5432/your_database_name
 spring.datasource.username=your_username
 spring.datasource.password=your_password
-spring.jpa.hibernate.ddl-auto=update
+
 ```
 Build and run:
 ```bash
